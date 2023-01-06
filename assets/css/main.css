@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+#technicalskillslist {
+    column-count: 3;
+}
+
 blockquote, q {
 	quotes: none;
 }
