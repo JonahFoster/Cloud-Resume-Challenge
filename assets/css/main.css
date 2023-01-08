@@ -252,6 +252,10 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			#technicalskillslist {
+				column-count: 1;
+			}
+
 		}
 
 		@media screen and (max-width: 736px) {
